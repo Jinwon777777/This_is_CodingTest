@@ -1,5 +1,6 @@
 t = int(input())
-### 이전 인덱스에 더하기 위해
+
+### 이전 인덱스에 더하기 위해서 
 d = [-1, 0, 1]
 for _ in range(t):
     n, m = map(int, input().split())
